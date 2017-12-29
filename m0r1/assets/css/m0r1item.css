@@ -1,0 +1,128 @@
+div.jarviswidget > div.m0r1item
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+a.m0r1itemdel {
+    float: left;
+}
+
+div.m0r1itemstube > div.jarviswidget.m0r1itemselected > header , div.m0r1itemstube > div.jarviswidget > div.m0r1conditions > div:not(:first-child) > div.jarviswidget.m0r1itemselected > header
+{
+    background-color: #A289F1;
+}
+
+div.m0r1itemstube > div.jarviswidget > header > a + h2 + div
+{
+    width: 32px;
+    height: 100%;
+    float: right;
+    background-color: green;
+}
+
+div.m0r1itemstube > div.jarviswidget > div.m0r1conditions > div
+{
+    text-align: right;
+}
+
+div > div.modal-dialog > div.modal-content > div.modal-body > div + div
+{
+    margin-top: 8px;
+}
+
+div > div.modal-dialog > div.modal-content > div.modal-body > div + div + div.m0r1-select-cond-val
+{
+    display: none;
+    margin-top: 8px;
+    width: 100%;
+}
+
+div > div.modal-dialog > div.modal-content > div.modal-body > div + div + div.m0r1-select-cond-val + div.m0r1-select-cond-expr
+{
+    display: none;
+    margin-top: 8px;
+    width: 100%;
+}
+
+div > div.modal-dialog > div.modal-content > div.modal-body > div + div + div.m0r1-select-cond-val + div.m0r1-select-cond-expr > div:first-child
+{
+    width: 20%;
+    display: inline-block;
+}
+
+div > div.modal-dialog > div.modal-content > div.modal-body > div + div + div.m0r1-select-cond-val + div.m0r1-select-cond-expr > div:first-child > select
+{
+    width: 100%;
+}
+
+div > div.modal-dialog > div.modal-content > div.modal-body > div + div + div.m0r1-select-cond-val + div.m0r1-select-cond-expr > div:first-child + div
+{
+    width: 76%;
+    display:inline-block;
+}
+
+div > div.modal-dialog > div.modal-content > div.modal-body > div + div + div.m0r1-select-cond-val + div.m0r1-select-cond-expr + div.m0r1-select-cond-act
+{
+    margin-top: 8px;
+}
+
+div > div.modal-dialog > div.modal-content > div.modal-body > div + div + div.m0r1-select-cond-val + div.m0r1-select-cond-expr + div.m0r1-select-cond-act > div:first-child + div + div
+{
+    text-align: right;
+    margin-top: 8px;
+}
+
+div > div.modal-dialog > div.modal-content > div.modal-body > div + div + div.m0r1-select-cond-val + div.m0r1-select-cond-expr + div.m0r1-select-cond-act > div:first-child
+{
+    margin-top: 8px;
+    width: 100%;
+}
+
+div > div.modal-dialog > div.modal-content > div.modal-body > div + div + div.m0r1-select-cond-val + div.m0r1-select-cond-expr + div.m0r1-select-cond-act > div:first-child > select
+{
+    width: 100%;
+}
+
+div > div.modal-dialog > div.modal-content > div.modal-body > div + div + div.m0r1-select-cond-val + div.m0r1-select-cond-expr + div.m0r1-select-cond-act > div:first-child + div
+{
+    margin-top: 8px;
+    display: none;
+}
+
+div.m0r1conditions > div:not(:first-child)
+{
+    margin-top:8px;
+}
+
+
+div.m0r1conditions > div:not(:first-child) > div.jarviswidget > header > a:first-child, div.m0r1conditions > div:not(:first-child) > div.jarviswidget > header > a:first-child + a
+{
+    float: left;
+}
+
+div.m0r1conditions > div:not(:first-child) > div.jarviswidget > header > a:first-child
+{
+    margin-right: 4px;
+}
+
+div.m0r1conditions > div:not(:first-child) > div.jarviswidget > header > a:first-child + a + h2 + div
+{
+    width: 32px;
+    height: 100%;
+    float: right;
+    background-color: green;
+}
+
+div.m0r1conditions > div:not(:first-child) > div.jarviswidget > header + div.well
+{
+    text-align: left;
+}
+
+
+
+
+
+
+

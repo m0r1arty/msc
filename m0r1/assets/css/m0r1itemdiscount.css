@@ -1,0 +1,14 @@
+div.m0r1itemdiscount
+{
+    margin-bottom: 8px;
+}
+
+div.m0r1itemdiscount > div + div
+{
+    margin-top: 8px;
+}
+
+div.m0r1itemdiscount > div + div + div
+{
+    text-align: right;
+}

@@ -1,0 +1,116 @@
+
+div.m0r1bbw-count-panel
+{
+    text-align:center;
+}
+
+div.m0r1bbw-count-panel > div.row > div.col-md-4:first-child > div , div.m0r1bbw-count-panel > div.row > div.col-md-4:first-child + div + div > div
+{
+/*display:inline;*/
+width: 15px;
+height: 15px;
+background-color: #eeeeee;
+color: red;
+padding: 0;
+cursor:pointer;
+border-radius: 8px 8px 8px 8px;
+-moz-border-radius: 8px 8px 8px 8px;
+-webkit-border-radius: 8px 8px 8px 8px;
+
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+div.m0r1bbw-count-panel > div.row > div.col-md-4:first-child > div
+{
+float: right;
+}
+
+div.m0r1bbw-count-panel > div.row > div.col-md-4:first-child + div + div > div
+{
+float:left;
+}
+/*
+div.m0r1bbw-count-panel > div.row > div.col-md-4 >  div > a
+{
+    position: relative;
+    top: -2px;
+}
+*/
+div.m0r1bbw-count-panel > div.row > div.col-md-4 > div > a > i
+{
+    font-size: 0.9em;
+}
+
+div.m0r1bbw-count-panel > div.row > div.col-md-4 + div.col-md-4 > div
+{
+border-radius: 5px 5px 5px 5px;
+-moz-border-radius: 5px 5px 5px 5px;
+-webkit-border-radius: 5px 5px 5px 5px;
+border: 1px solid #b2b3ad;
+background-color:#f9fae8;
+cursor:default;
+font-size:0.8em;
+}
+
+div.m0r1bbw-shop-panel
+{
+    margin-top: 12px;
+}
+
+div.m0r1bbw-shop-panel > div:first-child > a:first-child + a
+{
+    float: right;
+    display: none;
+}
+
+div.m0r1bbw-shop-panel > div:first-child
+{
+    display: block;
+}
+
+div.m0r1bbw-shop-panel > div:first-child + div
+{
+    display: none;
+}
+
+div.m0r1bbw-shop-panel.m0r1bbw-shop-panel-used > div:first-child + div
+{
+    display: block;
+}
+
+div.m0r1bbw-shop-panel.m0r1bbw-shop-panel-used > div:first-child
+{
+    display: none;
+}
+
+div.m0r1bbw-shop-panel.m0r1bbw-shop-panel-used > div:first-child + div > a:first-child
+{
+    width: 100%;
+}
+
+div.m0r1bbw-shop-panel.m0r1bbw-shop-panel-used > div:first-child > a:first-child + a
+{
+    display: inline;
+}
+
+div.m0r1bbw-shop-panel.m0r1bbw-shop-panel-used > div:first-child > a:first-child
+{
+    width: auto;
+}
+
+div.m0r1bbw-shop-panel > div:first-child > a:first-child
+{
+    width: 100%;
+}
+
+div.m0r1bbw-shop-panel > div:first-child > a:first-child > i
+{
+    margin-right: 8px;
+}
+
+div.m0r1bbw-shop-panel > div:first-child + div > a:first-child > i
+{
+    margin-right: 8px;
+}
